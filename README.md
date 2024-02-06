@@ -1,7 +1,8 @@
 # DeepNeuralNetwork_Transfer_Learning_ImageRepresentation
 DeepNeuralNetwork_Transfer_Learning_ImageRepresentation
 
-2023 Fall Semester gave me an opportunity to leverage my understanding of Deep Neaural Network and sveral cutting edge models through transfer learning on a set of images in order to measure the cuteness of the pets.
+2023 Fall Semester gave me an opportunity to leverage my understanding of Deep Neaural Network and several cutting edge models through transfer learning on a set of images in order to measure the cuteness of the pets.
+Implemented Deep Neural Network Transfer Learning for Image Representation, advancing image analysis and recognition capabilities.
 This is a project completed by me and my team during MSBA Fall Semester.
 
 This includes the following :
